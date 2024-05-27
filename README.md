@@ -46,6 +46,7 @@ PokemonApp is a simple SwiftUI-based list-detail application that fetches and di
 
 
 ## Code Structure
+  
    ## Models
 - Pokemon: Represents a Pokémon with basic details.
 - PokemonDetail: Represents detailed information about a Pokémon.
