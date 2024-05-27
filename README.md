@@ -38,3 +38,32 @@ PokemonApp is a simple SwiftUI-based list-detail application that fetches and di
 
 
 
+## Usage
+- Launch the app.
+- The left sidebar displays a list of 100 Pokémon names fetched from the PokéAPI.
+- Toggle the sorting order using the provided sort option (Alphabetically or by ID).
+- Select a Pokémon name from the sidebar to view detailed information about the selected Pokémon on the right side of the screen.
+
+
+## Code Structure
+   ## Models
+- Pokemon: Represents a Pokémon with basic details.
+- PokemonDetail: Represents detailed information about a Pokémon.
+- Sprites: Represents the sprite URLs for a Pokémon.
+
+   ## ViewModels
+- PokemonViewModel: Manages the fetching, sorting, and selection of Pokémon.
+
+   ## Views
+- ContentView: The main view containing the sidebar and detail view.
+- DetailView: Displays detailed information about a selected Pokémon.
+
+## Code Documentation
+- The code is documented with comments explaining key functionalities and logic. Refer to the inline comments for detailed explanations.
+
+## Unit Tests
+   ## The project includes unit tests to verify the following functionalities:
+
+- Fetching the Pokémon list.
+- Sorting the Pokémon list by name.
+
