@@ -2,7 +2,9 @@
 Pokemon project for interview
 
 
-<img width="359" alt="Screenshot 2024-05-09 at 12 21 22 PM" src="https://github.com/mdssaleem/TaskApp/assets/32189409/29fab559-2703-4425-a445-6e2041be9d1f">
+<img width="356" alt="Screenshot 2024-05-27 at 6 20 05 AM" src="https://github.com/mdssaleem/DemoApp/assets/32189409/3cbad643-e887-4d35-9b65-bd1a6d5f73be">
+<img width="359" alt="Screenshot 2024-05-27 at 6 20 15 AM" src="https://github.com/mdssaleem/DemoApp/assets/32189409/42157c5b-dfdd-42e2-8782-ed990c7bdb4c">
+<img width="355" alt="Screenshot 2024-05-27 at 6 20 31 AM" src="https://github.com/mdssaleem/DemoApp/assets/32189409/964d8a97-ccb4-4a20-bffd-f42044485754">
 
 
 
